@@ -20,7 +20,6 @@ The main goal is to understand how different prompts affect model responses, rea
 - Understand LLM behavior
 - Compare prompting strategies
 - Improve GenAI practical knowledge
-- Prepare for AI/ML interviews
 
 ---
 
