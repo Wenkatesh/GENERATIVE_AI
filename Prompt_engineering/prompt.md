@@ -6,20 +6,6 @@ The main goal is to understand how different prompts affect model responses, rea
 
 ---
 
-#  Techniques Explored
-
-- Zero-Shot Prompting
-- Few-Shot Prompting
-- Chain of Thought (CoT)
-- Role Prompting
-- Instruction-Based Prompting
-- Contextual Prompting
-- Self-Consistency Prompting
-- ReAct Prompting
-- Tree of Thoughts (ToT)
-
----
-
 # Technologies Used
 
 - Python
