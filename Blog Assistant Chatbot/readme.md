@@ -1,4 +1,4 @@
-#  AI Blog Assistant using Gemini + LangChain
+#  AI Blog Assistant 
 
 ##  Project Overview
 
