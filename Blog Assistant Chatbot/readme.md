@@ -1,6 +1,6 @@
-# 🤖 AI Blog Assistant using Gemini + LangChain
+#  AI Blog Assistant using Gemini + LangChain
 
-## 📌 Project Overview
+##  Project Overview
 
 AI Blog Assistant is a production-ready Generative AI chatbot application built using Google Gemini API, LangChain, and Streamlit.
 
@@ -17,9 +17,9 @@ This project demonstrates real-world AI engineering concepts including:
 
 ---
 
-# 🚀 Features
+#  Features
 
-## ✅ Gemini API Integration
+##  Gemini API Integration
 - Google Gemini GenAI API integration
 - Secure API key management using environment variables
 - Modular LLM architecture
@@ -30,7 +30,7 @@ This project demonstrates real-world AI engineering concepts including:
 
 ---
 
-## ✅ Advanced Prompt Engineering
+##  Advanced Prompt Engineering
 - Structured system prompts
 - Role-based prompting
 - Domain-specific instructions
@@ -39,14 +39,14 @@ This project demonstrates real-world AI engineering concepts including:
 
 ---
 
-## ✅ Conversation Memory
+##  Conversation Memory
 - Implemented using LangChain Message History
 - Remembers previous interactions
 - Optimized using `n_messages` to reduce token consumption
 
 ---
 
-## ✅ Streamlit User Interface
+##  Streamlit User Interface
 - Chat-style interface
 - Real-time response rendering
 - Conversation history display
@@ -55,7 +55,7 @@ This project demonstrates real-world AI engineering concepts including:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -68,7 +68,7 @@ This project demonstrates real-world AI engineering concepts including:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 blog-assistant-chatbot/
