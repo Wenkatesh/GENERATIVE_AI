@@ -108,3 +108,5 @@ Venkatesh Madaparthi
 
 Aspiring Data/AI Professional passionate about Generative AI, Machine Learning, NLP, and AI Engineering.
 
+Let's connect : https://www.linkedin.com/in/venkatesh-madaparthi-45b6b5237/
+
