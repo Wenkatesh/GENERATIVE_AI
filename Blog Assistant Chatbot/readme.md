@@ -70,7 +70,7 @@ This project demonstrates real-world AI engineering concepts including:
 
 #  Project Structure
 
-```bash
+```
 blog-assistant-chatbot/
 │
 ├── chat.py
@@ -79,7 +79,8 @@ blog-assistant-chatbot/
 ├── app.log
 └── README.md
 ---
-# 🔥 Future Enhancements
+```
+#  Future Enhancements
 
 * PDF Export
 * Multi-language Support
@@ -87,7 +88,7 @@ blog-assistant-chatbot/
 * Voice Input
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, the following concepts were explored:
 
