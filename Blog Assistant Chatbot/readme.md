@@ -78,3 +78,32 @@ blog-assistant-chatbot/
 ├── .env
 ├── app.log
 └── README.md
+---
+# 🔥 Future Enhancements
+
+* PDF Export
+* Multi-language Support
+* Blog Templates
+* Voice Input
+---
+
+# 🎯 Learning Outcomes
+
+Through this project, the following concepts were explored:
+
+* Generative AI Applications
+* LangChain Framework
+* Prompt Engineering
+* LLM Memory Management
+* Streamlit Deployment
+* Gemini API Integration
+* AI Application Architecture
+
+---
+
+# Author
+
+Venkatesh Madaparthi
+
+Aspiring Data/AI Professional passionate about Generative AI, Machine Learning, NLP, and AI Engineering.
+
