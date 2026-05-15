@@ -1,4 +1,4 @@
-#  AI Blog Assistant 
+#  Blog Assistant ChatBot
 
 ##  Project Overview
 
