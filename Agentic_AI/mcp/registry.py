@@ -1,0 +1,3 @@
+from app.mcp.client import MCPClient
+
+mcp_client = MCPClient()
