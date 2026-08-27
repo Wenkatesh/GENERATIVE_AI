@@ -42,20 +42,6 @@ Answer + Citations
 * Streamlit
 * Boto3
 
-## 📁 Project Structure
-
-```text
-enterprise-kb-rag/
-│
-├── app.py
-├── requirements.txt
-├── .env.example
-├── README.md
-└── src/
-    ├── knowledge_base.py
-    └── bedrock_client.py
-```
-
 ## ⚙️ Setup
 
 ### 1. Clone the repository
